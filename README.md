@@ -29,11 +29,11 @@ Select the music button
 
 Search the song
 
-![Searchsongbutton](https://github.com/user-attachments/assets/80907296-bc37-4c46-a000-6ba526187e81)
+![Searchsongbutton](https://github.com/user-attachments/assets/f4d46374-f123-494c-a2ed-b1dd05fbda47)
 
 Select the song
 
-![SongSelctionNextButton](https://github.com/user-attachments/assets/2fa27f00-3972-4b97-b75f-4766884b6ce4)
+![SongSelctionNextButton](https://github.com/user-attachments/assets/f749fbbb-1622-415c-aeef-6ca95e44a116)
 
 Cut the song and press the tick to accept
 
