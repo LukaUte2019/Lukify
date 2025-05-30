@@ -24,7 +24,7 @@ In the DM List select the add note button
 
 Select the music button
 
-![Selecthesongbutton](https://github.com/user-attachments/assets/c613c2cd-04b5-4936-92bd-8e21bc611b47)
+![Selecthesongbutton](https://github.com/user-attachments/assets/8c17dfbf-f885-4a96-a629-aef51316e9f9)
 
 
 Search the song
@@ -37,11 +37,13 @@ Select the song
 
 Cut the song and press the tick to accept
 
-![CutSong](https://github.com/user-attachments/assets/4aba01cf-f57c-4915-9245-6e8c72fcff32)
+![CutSong](https://github.com/user-attachments/assets/dd2ddc7e-668c-42a9-8e5e-57611e35147c)
+
 
 Press share to share song to ig chat notes
 
-![BeforeNoteAddScreen](https://github.com/user-attachments/assets/f98eb1c1-0092-4594-b946-5ca33a52c12a)
+![BeforeNoteAddScreen](https://github.com/user-attachments/assets/eb20c7be-0174-47bc-b198-cf016be9e292)
+
 
 In Lukify press "Refresh Chat Notes" in Instagram audios from chat notes
 
