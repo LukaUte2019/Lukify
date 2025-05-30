@@ -39,9 +39,11 @@ Cut the song and press the tick to accept
 
 ![CutSong](https://github.com/user-attachments/assets/4aba01cf-f57c-4915-9245-6e8c72fcff32)
 
-Press share to share song to ig chat notes and in Lukify press "Refresh Chat Notes" in Instagram audios from chat notes 
+Press share to share song to ig chat notes
 
 ![BeforeNoteAddScreen](https://github.com/user-attachments/assets/f98eb1c1-0092-4594-b946-5ca33a52c12a)
+
+In Lukify press "Refresh Chat Notes" in Instagram audios from chat notes
 
 
 
