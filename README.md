@@ -39,7 +39,7 @@ Select the song
 
 Cut the song and press the tick to accept
 
-![CutSong](https://github.com/user-attachments/assets/dd2ddc7e-668c-42a9-8e5e-57611e35147c)
+![CutSong](https://github.com/user-attachments/assets/c93cc07c-0a0f-4f29-965b-cbd18edfaffd)
 
 
 Press share to share song to ig chat notes
