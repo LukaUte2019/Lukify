@@ -45,7 +45,7 @@ Press share to share song to ig chat notes
 ![BeforeNoteAddScreen](https://github.com/user-attachments/assets/eb20c7be-0174-47bc-b198-cf016be9e292)
 
 
-In Lukify press "Refresh Chat Notes" in Instagram audios from chat notes
+In Lukify press "Refresh Chat Notes" in Instagram audios from chat notes to open the playlist "Instagram Audios from Chat Notes"
 
 
 
