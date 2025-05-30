@@ -14,10 +14,29 @@ Can play songs from Instagram Chat Notes
 
 ## Instagram Chat Notes Explanation
 ![Real Instagram App Screenshot](https://github.com/user-attachments/assets/933fd3be-74ee-44f0-9b46-353f076bd393)
-
-
-
 Instagram Chat notes are a feature that lets you add text, song, poll to the Active Now's DM List
+
+# How to create a song in a Instagram chat note
+
+In the DM List select the add note button
+
+![Image]()
+
+Search the song
+
+![Image]()
+
+Select the song
+
+![Image]()
+
+Cut the song and press the tick to accept
+
+![Image]()
+
+The song is added to the chat note
+
+![Image]()
 
 # What shows in Lukify?
 
