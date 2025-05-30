@@ -20,23 +20,30 @@ Instagram Chat notes are a feature that lets you add text, song, poll to the Act
 
 In the DM List select the add note button
 
-![Image]()
+![AddToNoteButton](https://github.com/user-attachments/assets/ec03d141-8209-4483-b30f-d7a4a881ea40)
+
+Select the music button
+
+![Selecthesongbutton](https://github.com/user-attachments/assets/c613c2cd-04b5-4936-92bd-8e21bc611b47)
+
 
 Search the song
 
-![Image]()
+![Searchsongbutton](https://github.com/user-attachments/assets/80907296-bc37-4c46-a000-6ba526187e81)
 
 Select the song
 
-![Image]()
+![SongSelctionNextButton](https://github.com/user-attachments/assets/2fa27f00-3972-4b97-b75f-4766884b6ce4)
 
 Cut the song and press the tick to accept
 
-![Image]()
+![CutSong](https://github.com/user-attachments/assets/4aba01cf-f57c-4915-9245-6e8c72fcff32)
 
-The song is added to the chat note
+Press share to share song to ig chat notes and in Lukify press "Refresh Chat Notes" in Instagram audios from chat notes 
 
-![Image]()
+![BeforeNoteAddScreen](https://github.com/user-attachments/assets/f98eb1c1-0092-4594-b946-5ca33a52c12a)
+
+
 
 # What shows in Lukify?
 
