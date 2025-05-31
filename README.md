@@ -13,7 +13,7 @@ Listen songs from Lukify server, SoundCloud, Instagram audios, Instagram audios 
 Can play songs from Instagram Chat Notes
 
 ## Instagram Chat Notes Explanation
-![Real Instagram App Screenshot](https://github.com/user-attachments/assets/933fd3be-74ee-44f0-9b46-353f076bd393)
+![Real Instagram App Screenshot](https://raw.githubusercontent.com/LukaUte2019/Lukify/refs/heads/main/chatnotestutorial/WhatAreChatNotes.png)
 Instagram Chat notes are a feature that lets you add text, song, poll to the Active Now's DM List
 
 # How to create a song in a Instagram chat note
