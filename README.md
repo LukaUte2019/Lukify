@@ -20,31 +20,31 @@ Instagram Chat notes are a feature that lets you add text, song, poll to the Act
 
 In the DM List select the add note button
 
-![AddToNoteButton](https://github.com/user-attachments/assets/ec03d141-8209-4483-b30f-d7a4a881ea40)
+![AddToNoteButton](https://raw.githubusercontent.com/LukaUte2019/Lukify/refs/heads/main/chatnotestutorial/AddToNoteButton.png)
 
 Select the music button
 
-![Selecthesongbutton](https://github.com/user-attachments/assets/8c17dfbf-f885-4a96-a629-aef51316e9f9)
+![Selecthesongbutton](https://raw.githubusercontent.com/LukaUte2019/Lukify/refs/heads/main/chatnotestutorial/Selecthesongbutton.png)
 
 
 Search the song
 
-![Searchsongbutton](https://github.com/user-attachments/assets/ae8ddfd0-9a7b-4605-b05e-f704e70b6913)
+![Searchsongbutton](https://raw.githubusercontent.com/LukaUte2019/Lukify/refs/heads/main/chatnotestutorial/Searchsongbutton.png)
 
 
 Select the song
 
-![SongSelctionNextButton](https://github.com/user-attachments/assets/9c8567e5-0993-4927-bb1a-ea6cc19b3882)
+![SongSelctionNextButton](https://raw.githubusercontent.com/LukaUte2019/Lukify/refs/heads/main/chatnotestutorial/SongSelctionNextButton.png)
 
 
 Cut the song and press the tick to accept
 
-![CutSong](https://github.com/user-attachments/assets/c93cc07c-0a0f-4f29-965b-cbd18edfaffd)
+![CutSong](https://raw.githubusercontent.com/LukaUte2019/Lukify/refs/heads/main/chatnotestutorial/CutSong.png)
 
 
 Press share to share song to ig chat notes
 
-![BeforeNoteAddScreen](https://github.com/user-attachments/assets/eb20c7be-0174-47bc-b198-cf016be9e292)
+![BeforeNoteAddScreen](https://raw.githubusercontent.com/LukaUte2019/Lukify/refs/heads/main/chatnotestutorial/BeforeNoteAddScreen.png)
 
 
 In Lukify press "Refresh Chat Notes" in Instagram audios from chat notes to open the playlist "Instagram Audios from Chat Notes"
