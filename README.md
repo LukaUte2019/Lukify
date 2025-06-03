@@ -27,7 +27,7 @@ Select the music button
 ![Selecthesongbutton](https://raw.githubusercontent.com/LukaUte2019/Lukify/refs/heads/main/chatnotestutorial/Selecthesongbutton.png)
 
 
-Search the song
+Search or select the song
 
 ![Searchsongbutton](https://raw.githubusercontent.com/LukaUte2019/Lukify/refs/heads/main/chatnotestutorial/Searchsongbutton.png)
 
