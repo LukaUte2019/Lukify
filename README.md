@@ -58,3 +58,6 @@ If you're friends on Instagram with someone, If someone adds a Chat Note with a 
 # To who the Instagram chat notes are visible to?
 
 A chat note song is only visible to people who have mutual followers with the Instagram DM chat note author.
+
+## Headphones voice hands free explanation
+![BeforeNoteAddScreen](https://github.com/LukaUte2019/Lukify/blob/90ab5c1021949cb3c1f49e90cea80d47ab4b822b/btheadphone/btheadphonesexplanation.png)
